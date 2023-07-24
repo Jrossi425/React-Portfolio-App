@@ -25,19 +25,19 @@ const projects = [
     project: "Project 4",
     name: "Javascript Quiz Game",
     image: "./Images/quizgame1.PNG",
-    link: "https://github.com/Jrossi425"
+    link: "https://github.com/Jrossi425/timed_javascript_quizgame"
   },
   {
     project: "Project 5",
     name: "Weather Dashboard",
     image: "./Images/Weather_Dashboard1.PNG",
-    link: "https://github.com/Jrossi425"
+    link: "https://github.com/Jrossi425/Weather_Forecast_Dashboard"
   },
   {
     project: "Project 6",
     name: "Work Day Scheduler",
     image: "./Images/Work-Day-Scheduler-Pic1.PNG",
-    link: "https://github.com/Jrossi425"
+    link: "https://github.com/Jrossi425/Day_Calendar_Scheduler"
   },
 ]
 
