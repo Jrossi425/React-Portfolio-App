@@ -1,70 +1,21 @@
-# Getting Started with Create React App
+# Social Network API https://img.shields.io/badge/lisence-MIT-red
+  
+## Description
+Week 20 challenge task to create a portfolio using React skills, whhich will help set apart your resume from other developers whose portfolios don't use the latest technologies. Employers look for a candidate with experience building single-page applications. Given a single-page application for a web developer, when they load the portfolio, the visitor is presented with a page containing a header, a section for content, and a footer. When they view the header, they are presented with the developer's name and anvigation with titles corresponding to different sections of the portfolio. When they enter the navigation titles, they are presented with About me, Portfoliom, Contact, and Resume and the title corresponding to the current section is highlighted. When they click on a navigation title, they are presented with the corresponding section below. When loaded for the first time, the about me title and section are seleceted by default. They see a recent avatar and a bio. In the portfolio section, they can see six of the developer's applications and links to the deployed GitHub repositories. In the contact section, there are fields for a name, email address and a message. When the cursor moves out of the fields, they are notified that the field is required. When they move into the email field they can have the notification that they entered an invalid email address. In the resume section, they they are able to see and click a link to download a resume of the developer's proficiencies. When the user views the footer, they are presented with text links going to the developer's Github, LinkedIn and Stack Overflow profiles.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Installation
+N/A
 
-## Available Scripts
+## Usage
 
-In the project directory, you can run:
+![image](https://github.com/Jrossi425/React-Portfolio-App/assets/123151991/dddc0485-3d56-4b9f-ab58-f90a6d6647ec)
+![image](https://github.com/Jrossi425/React-Portfolio-App/assets/123151991/58137616-58ba-4de7-8b8c-6d547fb0cc2d)
+![image](https://github.com/Jrossi425/React-Portfolio-App/assets/123151991/1f91ffa7-f437-4b8f-bba6-3c2a07de2905)
+![image](https://github.com/Jrossi425/React-Portfolio-App/assets/123151991/2b082972-9c2e-409a-bcc7-c5e6fb7e55ca)
+![image](https://github.com/Jrossi425/React-Portfolio-App/assets/123151991/a90f7dfc-bb1c-42a5-baf4-440e76cb6476)
 
-### `npm start`
+## License
+This project uses MIT
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Contributions
+Justin
