@@ -34,8 +34,16 @@ export default function Footer() {
         <h3>Contact Me</h3>
         <nav>
           <ul style={contactListStyle}>
-            <li style={listItemStyle}>justin.rossi12@gmail.com</li>
-            <li style={listItemStyle}>408.561.6334</li>
+            <li style={listItemStyle}>
+              <a href="https://stackoverflow.com/users/21005460/jrossi425" style={linkStyle}>
+                stackoverflow
+              </a>
+            </li>
+            <li style={listItemStyle}>
+              <a href="https://www.linkedin.com/in/justin-rossi-645412254/" style={linkStyle}>
+                linkedin
+              </a>
+            </li>
             <li style={listItemStyle}>
               <a href="https://github.com/Jrossi425" style={linkStyle}>
                 github.com/Jrossi425

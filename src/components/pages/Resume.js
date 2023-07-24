@@ -20,7 +20,7 @@ export default function Resume() {
   return (
     <Container style={containerStyle}>
       <h1>Resume Page</h1>
-      <Button href="/assets/Resume.pdf" download style={buttonStyle}>
+      <Button href="./Images/JPR_Resume.pdf" download style={buttonStyle}>
         Download Resume
       </Button>
     </Container>
