@@ -17,9 +17,9 @@ const projects = [
   },
   {
     project: "Project 3",
-    name: "Mern Stack App",
-    image: "./Images/mernpic.jpg",
-    link: "https://github.com/Jrossi425"
+    name: "Plantastic",
+    image: "./Images/plantastic-image.PNG",
+    link: "https://github.com/KateMcRo/Plantastic"
   },
   {
     project: "Project 4",
