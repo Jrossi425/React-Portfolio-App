@@ -13,7 +13,7 @@ const projects = [
     project: "Project 2",
     name: "Page Turner",
     image: "./Images/pageturnerpic4.PNG",
-    link: "https://jrossi425.github.io/Page-Turner/"
+    link: "https://github.com/Jrossi425/PageTurner"
   },
   {
     project: "Project 3",
