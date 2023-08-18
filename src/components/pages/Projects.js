@@ -68,13 +68,8 @@ export default function Projects() {
     image={"./Assets/Images/pageturnerpic1.PNG"}
     link={"https://jrossi425.github.io/Page-Turner/"}
   />
-
-  <Project
-    project={"Project 3"}
-    name={"Mern Stack App"}
-    image={"./Assets/Images/mernstackpic1.PNG"}
-    link={"https://github.com/Jrossi425"}
-  /> */}
+  
+ */}
 
 </div>
   );
