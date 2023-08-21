@@ -68,7 +68,14 @@ export default function Projects() {
     image={"./Assets/Images/pageturnerpic1.PNG"}
     link={"https://jrossi425.github.io/Page-Turner/"}
   />
-  
+
+  <Project
+    project={"Project 3"}
+    name={"Plantastic"}
+    image={"./Assets/Images/plantastic-image.PNG"}
+    link={"https://github.com/KateMcRo/Plantastic"}
+  />
+
  */}
 
 </div>
