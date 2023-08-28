@@ -48,6 +48,7 @@ export default function About() {
         this early stage in my journey. Passionate about utilizing technology
         to build creative and practical solutions.
       </p>
+      {/* potential additions */}
       {/* Two inputs for name, email address, and text area for message */}
       {/* onBlur() / onFocus() / onChange() / onSubmit() */}
     </Container>
